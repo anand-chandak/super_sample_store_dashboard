@@ -7,3 +7,4 @@ The objective can be broken down into the following detailed components:
 3. Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days.
 4. Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goal for growth, efficiency, and customer satisfaction.
 ![Dashboard pics](https://github.com/anand-chandak/super_sample_store_dashboard/assets/114340253/1f9e5e66-8ab7-4e23-b564-0a5296449430)
+![Forecast pic](https://github.com/anand-chandak/super_sample_store_dashboard/assets/114340253/1e355abb-08df-4515-b6cb-795f45e0f34a)
